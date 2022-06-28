@@ -1,4 +1,22 @@
-# world_bridges
+# WORLD BRIDGES FLUTTER APPLICATION
+
+# SCREENS 
+
+## HOME
+
+<img alt="1" src="./previews/home1.png" height="auto" width="50%"/>
+
+#
+
+<img alt="2" src="./previews/home2.png" height="auto" width="50%"/>
+
+#
+
+<img alt="3" src="./previews/home3.png" height="auto" width="50%"/>
+
+## DRAWER
+
+<img alt="drawer" src="./previews/drawer.png" height="auto" width="50%"/>
 
 A new Flutter project.
 
