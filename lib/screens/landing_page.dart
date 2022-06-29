@@ -28,7 +28,7 @@ class LandingPage extends StatelessWidget {
         ),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch, 
-          children: [
+          children: const [
             HeaderWidget(), 
             AttractionListView(),
             BottomBarWidget()
